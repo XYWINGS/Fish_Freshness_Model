@@ -1,4 +1,3 @@
-```markdown
 # Fish Freshness Classification System
 
 A deep learning system that classifies fish freshness based on eye and gill images, distinguishing between "fresh" and "non-fresh" states.
